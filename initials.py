@@ -24,3 +24,5 @@ def main():
     print("...NN......NNNN...**...DDDDDDDDDD.....**...AA........AA...**")
     print("...NN.......NNN...**...DDDDDDDDD......**...AA........AA...**")
     print()
+
+main()
